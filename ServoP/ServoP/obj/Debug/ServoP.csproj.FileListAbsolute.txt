@@ -1,0 +1,10 @@
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\bin\Debug\ServoP.exe.config
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\bin\Debug\ServoP.exe
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\bin\Debug\ServoP.pdb
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\obj\Debug\ServoP.csproj.AssemblyReference.cache
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\obj\Debug\ServoP.Form1.resources
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\obj\Debug\ServoP.Properties.Resources.resources
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\obj\Debug\ServoP.csproj.GenerateResource.cache
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\obj\Debug\ServoP.csproj.CoreCompileInputs.cache
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\obj\Debug\ServoP.exe
+C:\Users\alva1\Desktop\Tareas Alex\Visual Studio\ServoP\ServoP\obj\Debug\ServoP.pdb
